@@ -1,0 +1,7 @@
+1.Soru [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+Kökümü 4 olarak belirledim            
+                                                   4
+                                               3       5 
+                                            1    6   2    7
+                                              9             8   
+https://www.patika.dev/tr

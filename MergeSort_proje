@@ -1,0 +1,15 @@
+[16,21,11,8,12,22] -> Merge Sort
+1.Soru Yukarıdaki dizinin sort türüne göre aşamalarını yazınız     
+
+                                  [16,21,11,8,12,22]
+            [16,21,11]                                        [8,12,22]
+     [16]            [21,11]                             [8,12]         [22]
+  [16]             [21]      [11]                    [8]     [12]      [22]
+[16]                    [11,21]                         [8,12]         [22]
+
+          [11,21,16]                                  [8,12,22]
+                                [8,11,12,16,21,22]
+                                
+2.Soru Big-O gösterimini yazınız.
+
+Merge Sortda Big-O Notation nlog2tabanından olduğundan dolayı 6log2tabanında6 şeklinde gösterilir

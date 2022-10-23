@@ -1,3 +1,0 @@
-# InsertionSort
-InsertionSort_project
-
